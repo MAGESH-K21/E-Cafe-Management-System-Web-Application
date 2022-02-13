@@ -80,7 +80,7 @@
                     </div>
                 </a>
             </div>
-            <!-- END GRID EACH SHOP -->
+            <!-- END GRID EACH SHOPS -->
             <?php }
         }else{
             ?>
