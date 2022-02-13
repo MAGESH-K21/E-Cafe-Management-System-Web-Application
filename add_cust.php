@@ -1,5 +1,5 @@
 <?php
-    //For inserting new customer to database
+    //For inserting new customers to database
     include('conn_db.php');
     $pwd = $_POST["pwd"];
     $cfpwd = $_POST["cfpwd"];
