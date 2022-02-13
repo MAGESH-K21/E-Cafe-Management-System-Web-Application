@@ -24,7 +24,7 @@
         </a>
         <h3 class="border-bottom pb-2"><i class="bi bi-shop align-top"></i> Available Shop</h3>
         
-        <!-- GRID SHOP SELECTION -->
+        <!-- GRID SHOPS SELECTION -->
         <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
 
         <?php
