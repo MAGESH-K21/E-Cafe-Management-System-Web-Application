@@ -129,7 +129,7 @@
             </div>
 
 
-            <!-- COMPLETED ORDER TAB -->
+            <!-- COMPLETED ORDERS TAB -->
             <div class="tab-pane fade p-3" id="nav-completed" role="tabpanel" aria-labelledby="completed-tab">
             <?php 
                 $ongoing_query = "SELECT * FROM order_header WHERE c_id = {$_SESSION['cid']} AND orh_orderstatus = 'FNSH';";
