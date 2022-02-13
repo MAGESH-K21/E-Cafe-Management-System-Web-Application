@@ -34,7 +34,7 @@
             if($result -> num_rows > 0){
             while($row = $result -> fetch_array()){
         ?>
-            <!-- GRID EACH SHOP -->
+            <!-- GRID EACH SHOPS -->
             <div class="col">
                 <a href="<?php echo "shop_menu.php?s_id=".$row["s_id"]?>" class="text-decoration-none text-dark">
                     <div class="card rounded-25">
