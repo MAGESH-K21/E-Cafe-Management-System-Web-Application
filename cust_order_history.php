@@ -109,7 +109,7 @@
                         </a>
                     </div>
                     <?php } ?>
-                    <!-- END EACH ORDER DETAIL -->
+                    <!-- END EACH ORDERS DETAIL -->
                 </div>
                 <?php }else{ ?>
                 <!-- IN CASE NO ORDER -->
