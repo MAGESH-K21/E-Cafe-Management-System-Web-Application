@@ -45,7 +45,7 @@
                             <span class="me-2 float-end"><a class="text-decoration-none link-light" href="cust_profile.php">X</a></span>
                         </div>
                     </div>
-                    <!-- END SUCCESSFULLY UPDATE PASSWORD -->
+                    <!-- END SUCCESSFULLY UPDATED PASSWORD -->
             <?php }else{ ?>
                     <!-- START FAILED UPDATE PASSWORD -->
                     <div class="row row-cols-1 notibar">
