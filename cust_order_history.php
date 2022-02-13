@@ -124,7 +124,7 @@
                         <p class="ms-2 mt-2">You don't have any order yet.</p>
                     </div>
                 </div>
-                <!-- END CASE NO ORDER -->
+                <!-- END CASE NO ORDERS -->
                 <?php } ?>
             </div>
 
