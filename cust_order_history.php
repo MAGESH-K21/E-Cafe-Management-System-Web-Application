@@ -138,7 +138,7 @@
                 if($ongoing_num>0){
             ?>
                 <div class="row row-cols-1 row-cols-md-3">
-                    <!-- START EACH ORDER DETAIL -->
+                    <!-- START EACH ORDERS DETAIL -->
                     <?php while($og_row = $ongoing_result -> fetch_array()){ ?>
                     <div class="col">
                         <a href="cust_order_detail.php?orh_id=<?php echo $og_row["orh_id"]?>"
