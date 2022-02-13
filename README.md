@@ -2,11 +2,11 @@
 Database System Project
 
 ## Project Status
-Status: COMPLETED
-Completion: **100%**
+- Status: COMPLETED
+- Completion: **100%**
 
 ## Project Description
-SaiCafe is a Online canteen food ordering and management system based on a scenario at Sri Sairam Engineering College, Chennai. We have been observing that in many canteens/mess/cafeteria in all Institution like educational, IT Sectors and Factories are experiencing huge crowds during peak hours. Due to this there was prolonged queue in the billing as well as delivery place, this ultimately leads to wastage of time and human errors in accounting... To overcome this problem, we came with a solution Online food ordering in the particular café using our web application. In our application any Registered Person can able to view and place their food orders prior to their break time with facilitation of online payments. The user can select a particular slot on which he/she willing to take delivery of the food.
+SaiCafe is a Online canteen food ordering and management system based on a scenario at Sri Sairam Engineering College, Chennai. We have been observing that in many canteens/mess/cafeteria in all Institution such as educational, IT Sectors and Factories are experiencing huge crowds during peak hours. Due to this there was prolonged queue in the billing as well as delivery place, this ultimately leads to wastage of time and human errors in accounting... To overcome this problem, we came with a solution Online food ordering in the café using our web application. In our application any Registered Person can able to view and place their food orders prior to their break time with facilitation of online payments. The user can select a particular slot on which he/she willing to take delivery of the food.
 
 ## Software Tools Used
 - HTML 5
@@ -24,6 +24,6 @@ SaiCafe is a Online canteen food ordering and management system based on a scena
 - You can register for the customer account and log in. To log in with shop account, press the log in with shop account under login page. Add shop account using the admin mode. Access admin mode by clicking at the first name in the footer at the customer log in page. You can look up 
 
 ## Members
-Magesh K
-Keertheshwaran G
-SelvaNarayanan A
+- Magesh K
+- Keertheshwaran G
+- SelvaNarayanan A
