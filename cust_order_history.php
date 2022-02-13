@@ -41,7 +41,7 @@
         </nav>
 
         <div class="tab-content" id="nav-tabContent">
-            <!-- ONGOING ORDER TAB -->
+            <!-- ONGOING ORDERS TAB -->
             <div class="tab-pane fade show active p-3" id="nav-ongoing" role="tabpanel" aria-labelledby="ongoing-tab">
                 <?php 
                 $ongoing_query = "SELECT * FROM order_header WHERE c_id = {$_SESSION['cid']} AND orh_orderstatus <> 'FNSH';";
