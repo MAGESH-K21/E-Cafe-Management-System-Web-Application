@@ -61,7 +61,7 @@
                     <span class="me-2 float-end"><a class="text-decoration-none link-light" href="cust_cart.php">X</a></span>
                 </div>
             </div>
-            <!-- END FAILED UPDATE CART -->
+            <!-- END FAILED UPDATED CART -->
             <?php } 
                 } 
             if(isset($_GET["rmv_crt"])){
