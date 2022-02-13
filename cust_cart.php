@@ -398,7 +398,7 @@
                 </svg><span class="ms-2 mt-2">You have no item in the cart</span>
             </div>
         </div>
-        <!-- END CASE: NO ITEM IN THE CART -->
+        <!-- END CASE: NO ITEM IN THE CARTS -->
         <?php } ?>
 
     </div>
