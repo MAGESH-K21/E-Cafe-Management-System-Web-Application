@@ -155,7 +155,7 @@
                     }   
                 }
             ?>
-            <!-- END GRID EACH SHOP -->
+            <!-- END GRID EACH SHOPS -->
 
         </div>
         <!-- END GRID SHOP SELECTION -->
