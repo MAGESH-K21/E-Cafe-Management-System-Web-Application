@@ -162,7 +162,7 @@
                 <dd class="col-sm-9"><?php echo $row["c_email"];?></dd>
             </dl>
         </div>
-        <!-- END CUSTOMER INFORMATION -->
+        <!-- END CUSTOMERS INFORMATION -->
     </div>
     <footer class="text-center text-white">
   <!-- Copyright -->
