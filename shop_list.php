@@ -96,7 +96,7 @@
             $result -> free_result();
         ?>
         </div>
-        <!-- END GRID SHOP SELECTION -->
+        <!-- END GRID SHOPS SELECTION -->
 
     </div>
 
