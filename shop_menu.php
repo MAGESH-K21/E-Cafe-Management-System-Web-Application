@@ -110,7 +110,7 @@
             </ul>
         </div>
 
-        <!-- GRID MENU SELECTION -->
+        <!-- GRID MENUS SELECTION -->
         <h3 class="border-top py-3 mt-2">Menu</h3>
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 align-items-stretch mb-1">
 
