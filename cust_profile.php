@@ -59,7 +59,7 @@
                             <span class="me-2 float-end"><a class="text-decoration-none link-light" href="cust_profile.php">X</a></span>
                         </div>
                     </div>
-                    <!-- END FAILED UPDATE PASSWORD -->
+                    <!-- END FAILED UPDATED PASSWORD -->
             <?php }
                 }
             if(isset($_GET["up_prf"])){
