@@ -158,7 +158,7 @@
             <!-- END GRID EACH SHOPS -->
 
         </div>
-        <!-- END GRID SHOP SELECTION -->
+        <!-- END GRID SHOPS SELECTION -->
 
     </div>
     <footer class="text-center text-white">
