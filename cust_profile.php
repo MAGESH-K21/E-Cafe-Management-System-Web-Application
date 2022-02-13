@@ -32,7 +32,7 @@
             if(isset($_GET["up_pwd"])){
                 if($_GET["up_pwd"]==1){
                     ?>
-                    <!-- START SUCCESSFULLY UPDATE PASSWORD -->
+                    <!-- START SUCCESSFULLY UPDATED PASSWORD -->
                     <div class="row row-cols-1 notibar">
                         <div class="col mt-2 ms-2 p-2 bg-success text-white rounded text-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
