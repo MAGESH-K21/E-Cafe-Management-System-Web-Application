@@ -1,5 +1,5 @@
 # Sai Cafe
-Database System Project
+Online Food Ordering System Project
 
 ## Project Status
 - Status: COMPLETED
