@@ -1,0 +1,69 @@
+/* CSS for most core pages */
+html{
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    padding-top: 4rem;
+    margin-bottom: -50px;
+    font-family: 'Poppins', 'Noto Sans Thai',  sans-serif;
+}
+
+a{
+    cursor: pointer;
+}
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.text-white {
+    color: white;
+}
+
+.smaller-font {
+    font-size: smaller;
+}
+
+.xsmall-font{
+    font-size: x-small;
+}
+
+.promo-banner-bg {
+    background: #686868 url('../img/home-banner-2.jpg') center;
+    background-position: top;
+    background-size: auto;
+    background-position-x: center;
+    background-clip: padding-box;
+    background-blend-mode: multiply;
+}
+
+.bold-text {
+    font-weight: 600;
+}
+
+.reg-text{
+    font-weight: 400;
+}
+
+.rounded-10{
+    border-radius: 10px;
+}
+
+.rounded-25{
+    border-radius: 25px;
+}
+
+.notibar{
+    max-width: 450px;
+}

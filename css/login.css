@@ -1,0 +1,62 @@
+html,
+body {
+  height: 100%;
+  font-family: 'Poppins', 'Noto Sans Thai',  sans-serif;
+}
+
+body {
+  background-color: #f5f5f5;
+  padding-top: 4rem;
+  margin-bottom: -50px;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 375px;
+  padding: 15px;
+  margin: auto;
+}
+
+.reg-success,.reg-fail{
+  max-width: 400px !important;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.text-white {
+  color: white;
+}
+
+.smaller-font {
+  font-size: smaller;
+}
+
+.xsmall-font {
+  font-size: x-small;
+}
+
+.bold-text {
+  font-weight: 600;
+}
+
+.reg-text{
+  font-weight: 400;
+}
+
+.rounded-25{
+  border-radius: 25px;
+}
+
+.restricted{
+  max-width: 500px !important;
+}
