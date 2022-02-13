@@ -47,7 +47,7 @@
                     <span class="me-2 float-end"><a class="text-decoration-none link-light" href="cust_cart.php">X</a></span>
                 </div>
             </div>
-            <!-- END SUCCESSFULLY UPDATE CART -->
+            <!-- END SUCCESSFULLY UPDATED CART -->
             <?php }else{ ?>
             <!-- START FAILED UPDATE CART -->
             <div class="row row-cols-1 notibar">
