@@ -8,7 +8,7 @@ Online Food Ordering System Project
 ## Project Description
 SaiCafe is a Online canteen food ordering and management system based on a scenario at Sri Sairam Engineering College, Chennai. We have been observing that in many canteens/mess/cafeteria in all Institution such as educational, IT Sectors and Factories are experiencing huge crowds during peak hours. Due to this there was prolonged queue in the billing as well as delivery place, this ultimately leads to wastage of time and human errors in accounting... To overcome this problem, we came with a solution Online food ordering in the café using our web application. In our application any Registered Person can able to view and place their food orders prior to their break time with facilitation of online payments. The user can select a particular slot on which he/she willing to take delivery of the food.
 
-## Software Tools Used
+## Software Tools Used in this Project
 - HTML 5
 - CSS 3
 - JavaScript
